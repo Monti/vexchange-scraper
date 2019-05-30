@@ -6,8 +6,8 @@
   "dependencies": {
     "deasync": "^0.1.15",
     "lodash": "^4.17.11",
-    "thorify": "^1.1.1",
-    "web3": "^1.0.0-beta.37"
+    "thorify": "1.1.1",
+    "web3": "1.0.0-beta.37"
   },
   "devDependencies": {},
   "scripts": {
